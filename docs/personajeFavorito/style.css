@@ -2,8 +2,8 @@
   PALETA DE COLORES
 ======================================*/
 :root {
-    --color-primario: #5b5ff5;
-    --color-secundario: #ff8f70;
+    --color-primario: #03d8fd;
+    --color-secundario: #f8dc9e;
 }
 
 /*======================================
@@ -25,7 +25,7 @@ body {
     );
 
     min-height: 100vh;
-    color: #333;
+    color: #02e9fa;
 }
 
 /*======================================
@@ -137,7 +137,7 @@ footer {
 
     color: white;
 
-    background: rgba(0,0,0,.15);
+    background: #e60707;
 
     backdrop-filter: blur(5px);
 }
